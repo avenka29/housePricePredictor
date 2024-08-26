@@ -5,6 +5,9 @@ This project uses housing sale data in Miami to train a regression model. The us
 
 ## How to Use
 1. Locate "miamiuser.csv" file in project directory.
+
+![image](https://github.com/user-attachments/assets/6ecf34b8-6016-4f3d-8250-48ede76b7118)
+
 2. Fill in appropriate data values (**Do not use commas in any numbers**)
 3. Run the program
 
